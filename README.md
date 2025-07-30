@@ -1,0 +1,1 @@
+An interactive Shiny application that visualizes restaurant sales data through multiple analytical perspectives. This dashboard provides insights into sales patterns by time of day, day of week, seasonal trends, product categories, and popular menu items.
